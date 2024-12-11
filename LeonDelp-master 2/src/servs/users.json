@@ -1,0 +1,23 @@
+[
+    {
+     
+      "color": "tan",
+      "size": "medium",
+      "name": "Jack",
+      "animal": "kangaroo"
+    },
+    {
+     
+      "color": "pink",
+      "size": "small",
+      "name": "John",
+      "animal": "pig"
+    },
+    {
+      
+      "color": "blue",
+      "size": "large",
+      "name": "Joey",
+      "animal": "dog"
+    }
+  ]
